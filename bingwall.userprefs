@@ -2,7 +2,7 @@
   <MonoDevelop.Ide.Workbench ActiveDocument="bingwall/ViewController.cs">
     <Files>
       <File FileName="bingwall/WallpaperService.cs" Line="83" Column="9" />
-      <File FileName="bingwall/ViewController.cs" Line="70" Column="20" />
+      <File FileName="bingwall/ViewController.cs" Line="39" Column="14" />
       <File FileName="bingwall/BingModel.cs" Line="80" Column="6" />
       <File FileName="BingApiServiceClient/Wallpaper.cs" Line="31" Column="87" />
       <File FileName="bingwall/Main.cs" Line="10" Column="1" />
