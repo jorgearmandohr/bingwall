@@ -1,0 +1,23 @@
+﻿<Properties StartupConfiguration="{D9493B26-2496-4916-80F6-3E7C0238C423}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="bingwall/ViewController.cs">
+    <Files>
+      <File FileName="bingwall/WallpaperService.cs" Line="83" Column="9" />
+      <File FileName="bingwall/ViewController.cs" Line="70" Column="20" />
+      <File FileName="bingwall/BingModel.cs" Line="80" Column="6" />
+      <File FileName="BingApiServiceClient/Wallpaper.cs" Line="31" Column="87" />
+      <File FileName="bingwall/Main.cs" Line="10" Column="1" />
+      <File FileName="bingwall/ViewController.designer.cs" Line="25" Column="55" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.bingwall PreferredExecutionTarget="Test1" />
+  <DisabledProjects>
+    <String>PictureService/PictureService.csproj</String>
+    <String>BingApiServiceClient/BingApiServiceClient.shproj</String>
+  </DisabledProjects>
+</Properties>

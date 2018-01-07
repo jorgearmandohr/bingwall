@@ -1,0 +1,25 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "bingwall", "bingwall\bingwall.csproj", "{D9493B26-2496-4916-80F6-3E7C0238C423}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PictureService", "PictureService\PictureService.csproj", "{6656FBC0-C9AB-45D2-92FB-AB58B4820DBA}"
+EndProject
+Project("{D954291E-2A0B-460D-934E-DC6B0785DB48}") = "BingApiServiceClient", "BingApiServiceClient\BingApiServiceClient.shproj", "{BBFB1B37-E8DC-4F91-AE51-C557EED2A27D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D9493B26-2496-4916-80F6-3E7C0238C423}.Debug|x86.ActiveCfg = Debug|x86
+		{D9493B26-2496-4916-80F6-3E7C0238C423}.Debug|x86.Build.0 = Debug|x86
+		{D9493B26-2496-4916-80F6-3E7C0238C423}.Release|x86.ActiveCfg = Release|x86
+		{D9493B26-2496-4916-80F6-3E7C0238C423}.Release|x86.Build.0 = Release|x86
+		{6656FBC0-C9AB-45D2-92FB-AB58B4820DBA}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{6656FBC0-C9AB-45D2-92FB-AB58B4820DBA}.Debug|x86.Build.0 = Debug|Any CPU
+		{6656FBC0-C9AB-45D2-92FB-AB58B4820DBA}.Release|x86.ActiveCfg = Release|Any CPU
+		{6656FBC0-C9AB-45D2-92FB-AB58B4820DBA}.Release|x86.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
